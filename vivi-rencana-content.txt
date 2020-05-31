@@ -1,6 +1,7 @@
 RENCARA KONTEN VIVI
 - codeigniter
  *spk sederhana
+ - OOP dasar
 - mvc sederhana
 - java
 - vlog
