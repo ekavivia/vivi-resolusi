@@ -3,6 +3,7 @@ RENCARA KONTEN VIVI
  *spk sederhana
   ^moving average
   ^KNN
+  ^AHP
  - OOP dasar
 - java
 - vlog
