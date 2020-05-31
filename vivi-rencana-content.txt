@@ -1,9 +1,9 @@
 RENCARA KONTEN VIVI
 - codeigniter
  *spk sederhana
-  ^AHP
+  ^moving average
   ^KNN
  - OOP dasar
 - java
 - vlog
- * daily
+- laravel
