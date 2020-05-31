@@ -1,7 +1,10 @@
 RENCARA KONTEN VIVI
 - codeigniter
  *spk sederhana
+  ^moving average
+  ^KNN
  - OOP dasar
 - mvc sederhana
 - java
 - vlog
+- laravel
