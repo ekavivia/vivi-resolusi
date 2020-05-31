@@ -1,0 +1,5 @@
+RENCARA KONTEN VIVI
+- codeigniter
+- mvc sederhana
+- java
+- vlog
